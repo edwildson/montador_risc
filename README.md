@@ -1,2 +1,3 @@
 # montador-risc
 MONTADOR (ASSEMBLER) PARA UMA ARQUITETURA RISC SIMPLES COM MAPA DE MEMÓRIA PARA INSTRUÇÕES MIPS DE 32 BITS
+by: Edwildson Coelho Rodrigues e Samuel Souza Santana
